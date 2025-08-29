@@ -1,0 +1,6 @@
+filepath,raw_label,true_target,predicted_label,prob_background_noise,prob_faulty,prob_normal,is_correct
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\unknown.2n0oilbh.ingestion-6bb8c4b5ff-qd8th.wav,unknown,,background_noise,0.6657662056147193,0.00450606394621128,0.3297277304390693,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\unknown.2n0ojhbi.ingestion-6bb8c4b5ff-wgdrv.wav,unknown,,background_noise,0.6720086320013239,0.005546681639678782,0.3224446863589973,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\testing.2qqg3ocq.ingestion-5b6b8dfb4f-cqq49.wav,testing,,background_noise,0.5599132328672829,3.128196147892729e-06,0.4400836389365694,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\idling.2qshkrkf.ingestion-5b6b8dfb4f-5q62p.wav,idling,normal,normal,3.7573457368841775e-05,1.0323125814896025e-06,0.9999613942300497,True
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\Background Noise.2qsjpan6.ingestion-5b6b8dfb4f-5q62p.wav,Background Noise,background_noise,faulty,0.15690728002898532,0.5412205122460079,0.30187220772500684,False

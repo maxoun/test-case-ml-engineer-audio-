@@ -1,0 +1,6 @@
+filepath,split,raw_label,normalized_label,target
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\unknown.2n0oilbh.ingestion-6bb8c4b5ff-qd8th.wav,testing,unknown,unknown,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\unknown.2n0ojhbi.ingestion-6bb8c4b5ff-wgdrv.wav,testing,unknown,unknown,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\testing.2qqg3ocq.ingestion-5b6b8dfb4f-cqq49.wav,testing,testing,testing,
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\idling.2qshkrkf.ingestion-5b6b8dfb4f-5q62p.wav,testing,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\testing\Background Noise.2qsjpan6.ingestion-5b6b8dfb4f-5q62p.wav,testing,Background Noise,background noise,background_noise

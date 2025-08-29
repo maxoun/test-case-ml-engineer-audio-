@@ -1,0 +1,35 @@
+filepath,split,raw_label,normalized_label,target
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2q8n8mk2.ingestion-8bc844dc9-9gdvp.wav,training,normal engine inside cabin,normal engine inside cabin,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2q8nagl9.ingestion-8bc844dc9-gcb5t.wav,training,normal engine inside cabin,normal engine inside cabin,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2q8ncuva.ingestion-8bc844dc9-zdrjt.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2q8ndl7k.ingestion-8bc844dc9-9gdvp.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8ngkdt.ingestion-8bc844dc9-gcb5t.wav,training,oil cap off engine inside cabin,oil cap off engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8nh9g4.ingestion-8bc844dc9-zdrjt.wav,training,oil cap off engine inside cabin,oil cap off engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8nhura.ingestion-8bc844dc9-gcb5t.wav,training,oil cap off engine inside cabin,oil cap off engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8nikqi.ingestion-8bc844dc9-9gdvp.wav,training,oil cap off engine inside cabin,oil cap off engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qqg6i7t.ingestion-5b6b8dfb4f-5q62p.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qqg77a3.ingestion-5b6b8dfb4f-5q62p.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qqg7sbg.ingestion-5b6b8dfb4f-d6kkk.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qqgafi3.ingestion-5b6b8dfb4f-cqq49.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qshkn5g.ingestion-5b6b8dfb4f-d6kkk.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2qsi3v93.ingestion-5b6b8dfb4f-cqq49.wav,training,normal engine inside cabin,normal engine inside cabin,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qsi6t3v.ingestion-5b6b8dfb4f-d6kkk.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qsi88vo.ingestion-5b6b8dfb4f-5q62p.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qsi9it3.ingestion-5b6b8dfb4f-d6kkk.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qsiat0n.ingestion-5b6b8dfb4f-cqq49.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\idling.2qsie33u.ingestion-5b6b8dfb4f-cqq49.wav,training,idling,idling,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2qsienhj.ingestion-5b6b8dfb4f-cqq49.wav,training,normal engine inside cabin,normal engine inside cabin,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsip043.ingestion-5b6b8dfb4f-d6kkk.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsiq99b.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsirhus.ingestion-5b6b8dfb4f-d6kkk.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsisr29.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak.2qsitsbp.ingestion-5b6b8dfb4f-d6kkk.wav,training,air leak,air leak,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsiu8h1.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsivgiq.ingestion-5b6b8dfb4f-5q62p.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2qsj1dsi.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak engine inside cabin,air leak engine inside cabin,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak.2qsj2lmb.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak,air leak,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak.2qsj4349.ingestion-5b6b8dfb4f-cqq49.wav,training,air leak,air leak,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak.2qsj66p9.ingestion-5b6b8dfb4f-5q62p.wav,training,air leak,air leak,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qsj6mi0.ingestion-5b6b8dfb4f-d6kkk.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\Background Noise.2qsj7vbd.ingestion-5b6b8dfb4f-cqq49.wav,training,Background Noise,background noise,background_noise
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\background noise.2qsjj947.ingestion-5b6b8dfb4f-cqq49.wav,training,background noise,background noise,background_noise

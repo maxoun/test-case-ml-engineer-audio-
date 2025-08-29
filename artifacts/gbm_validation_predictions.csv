@@ -1,0 +1,8 @@
+filepath,true_label,predicted_label
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2q8n8mk2.ingestion-8bc844dc9-9gdvp.wav,faulty,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\normal engine inside cabin.2q8nagl9.ingestion-8bc844dc9-gcb5t.wav,background_noise,normal
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2q8ncuva.ingestion-8bc844dc9-zdrjt.wav,faulty,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\air leak engine inside cabin.2q8ndl7k.ingestion-8bc844dc9-9gdvp.wav,normal,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8ngkdt.ingestion-8bc844dc9-gcb5t.wav,faulty,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8nh9g4.ingestion-8bc844dc9-zdrjt.wav,faulty,faulty
+C:\Users\053458\Desktop\ML\gerion\ai-mechanic-export\training\oil cap off engine inside cabin.2q8nhura.ingestion-8bc844dc9-gcb5t.wav,normal,faulty
